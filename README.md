@@ -1,16 +1,9 @@
-# banking_store
+# Banking Store
 
-A new Flutter project.
+This is a simple UI banking store that provides you how to work with fl_chart package.
+It shows dummy data on daily, weekly, 3 monthly, 6 monthly and yearly basis.
 
-## Getting Started
+I hope it will be useful for you.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+<video src='Untitled Project.mp4' width=180/>
